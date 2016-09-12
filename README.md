@@ -11,3 +11,4 @@ tech stack
 - full chain monitor: zipkin
 - full chain log: elk
 - uptime monitor
+- deploy: docker
