@@ -12,4 +12,4 @@ tech stack
 - full chain log: elk
 - uptime monitor
 - deploy: docker
-- storage: redis
+- storage: redis & cassandra
